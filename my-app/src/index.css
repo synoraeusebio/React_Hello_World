@@ -1,0 +1,17 @@
+/* Element styles */
+
+body{
+    background: lightblue;
+}
+
+header{
+    color: green; 
+    font-size: 50px;
+    text-align: center; 
+    margin-top: 100px;
+}
+
+.DisplayImage{
+    text-align: center;
+    padding-top: 100px;
+}
